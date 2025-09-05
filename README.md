@@ -1,4 +1,4 @@
-## Personal Portfolio Website
+# Personal Portfolio Website
 
 A personal portfolio website demonstrating core front-end skills in **HTML, CSS, and JavaScript**. The project features a custom, responsive design with a strong emphasis on creative UI/UX principles.
 
@@ -17,3 +17,5 @@ A personal portfolio website demonstrating core front-end skills in **HTML, CSS,
 * **HTML5**
 * **CSS3**
 * **Vanilla JavaScript**
+
+---
