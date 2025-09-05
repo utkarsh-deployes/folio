@@ -17,5 +17,3 @@ A personal portfolio website demonstrating core front-end skills in **HTML, CSS,
 * **HTML5**
 * **CSS3**
 * **Vanilla JavaScript**
-
----
